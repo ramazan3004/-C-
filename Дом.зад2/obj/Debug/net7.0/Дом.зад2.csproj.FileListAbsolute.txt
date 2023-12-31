@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\Дом.зад2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\Дом.зад2.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\Дом.зад2.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\Дом.зад2.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\bin\Debug\net7.0\Дом.зад2.exe
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\bin\Debug\net7.0\Дом.зад2.deps.json
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\bin\Debug\net7.0\Дом.зад2.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\bin\Debug\net7.0\Дом.зад2.dll
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\bin\Debug\net7.0\Дом.зад2.pdb
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\Дом.зад2.dll
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\refint\Дом.зад2.dll
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\Дом.зад2.pdb
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\Дом.зад2.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Семинар_2 Простые_алгоритмы_на_C#\Дом.зад\Дом.зад2\obj\Debug\net7.0\ref\Дом.зад2.dll
